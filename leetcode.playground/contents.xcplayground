@@ -48,5 +48,6 @@
         <page name='46. Permutations '/>
         <page name='47. Permutations II '/>
         <page name='51. N-Queens '/>
+        <page name='701. Insert into a Binary Search Tree'/>
     </pages>
 </playground>

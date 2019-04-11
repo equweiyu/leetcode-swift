@@ -6,7 +6,7 @@ class Solution {
         var maxL = 0
         var start = 0
         var end = 0
-        var chars = Array(s.characters)
+        var chars = Array(s)
         for c in chars {
             for j in start..<end {
                 if chars[j] == c {
